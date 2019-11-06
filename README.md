@@ -1,7 +1,7 @@
-# React Hooks Workshop w/ (SWAPI)[https://swapi.co/]
+# React Hooks Workshop w/ [SWAPI](https://swapi.co/)
 
 ## About
-This is the repo for the React js meetup workshop in Dallas. You can find the codesandbox (here)[https://codesandbox.io/s/react-hooks-workshop-end-jtzwc]
+This is the repo for the React js meetup workshop in Dallas. You can find the codesandbox [here](https://codesandbox.io/s/react-hooks-workshop-end-jtzwc)
 
 ## Getting Started
 1. Clone the repo
